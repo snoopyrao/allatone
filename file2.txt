@@ -2,3 +2,4 @@ file2
 line2 .. line3
 User2:line4
 User1:line4
+1
